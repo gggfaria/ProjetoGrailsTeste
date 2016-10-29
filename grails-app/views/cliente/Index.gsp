@@ -23,7 +23,7 @@
     Nome <input type="text" name="nome"/><br/>
     CPF <input type="number" name="cpf"/><br/>
     Data Nascimento <input type="text" name="dataNascimento"/><br/>
-    Enedereco <input type="text" name="enedereco"/><br/>
+    Enedereco <input type="text" name="endereco"/><br/>
     Telefone <input type="text" name="telefone"/><br/>
     <input type="submit" name="enviar" value="Salvar"/><br/>
 

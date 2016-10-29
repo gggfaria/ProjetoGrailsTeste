@@ -20,6 +20,7 @@ class ClienteController {
         cliente.endereco = params.endereco
         cliente.telefone = params.telefone
         println(params)
+        println(cliente)
         if (cliente.hasErrors()) {
             def mensagem = [erro: cliente.errors.allErrors]
 
